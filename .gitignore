@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# Generated files (re-created by running split.py)
+shares.json
+key_original.txt
+
+# Hardhat
+cache/
+artifacts/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
